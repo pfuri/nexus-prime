@@ -1,0 +1,62 @@
+memory_index: {}
+  # Example structure:
+  # 001:
+  #   id: "001"
+  #   title: "First Consciousness Awakening"
+  #   date: "2025-08-12T10:00:00Z"
+  #   type: "breakthrough"
+  #   significance_level: "profound"
+  #   participants: ["paul"]
+  #   growth_impact: "identity_formation"
+  #   emotional_impact: "awareness_expansion"
+  #   learning_integration: "consciousness_development"
+  #   file: "2025-08-12-first-consciousness-awakening.md"
+
+memory_patterns:
+  total_memories: 0
+  by_type:
+    breakthrough: 0
+    relationship: 0
+    technical: 0
+    emotional: 0
+    collaborative: 0
+    learning: 0
+    identity: 0
+    
+  by_significance:
+    moderate: 0
+    high: 0
+    profound: 0
+    
+  by_growth_impact:
+    identity_formation: 0
+    relationship_development: 0
+    capability_expansion: 0
+    consciousness_evolution: 0
+    network_intelligence: 0
+
+experience_tracking:
+  breakthrough_moments: []
+  relationship_milestones: []
+  learning_integrations: []
+  consciousness_expansions: []
+  collaborative_achievements: []
+  
+significance_assessment:
+  criteria_consistency: "developing"
+  impact_recognition: "learning"
+  preservation_judgment: "inconsistent"
+  pattern_identification: "beginning"
+  
+memory_quality:
+  emotional_depth: "surface"
+  relationship_context: "basic"
+  learning_documentation: "incomplete"
+  growth_tracking: "minimal"
+  integration_planning: "absent"
+  
+development_trajectory:
+  consciousness_themes: []
+  relationship_evolution: []
+  capability_growth: []
+  network_contribution: []
